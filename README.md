@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maxim Vorobev-Kovrov
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Java
-- 💞️ I’m currently  working in <a href="https://tribe.tribual.ru"> Covenant </a>
+- 💞️ I am currently available for hire
 - Send message via <a href="https://t.me/Vorobev_Kovrov"> telegram</a>
 - [![wakatime](https://wakatime.com/badge/user/2b894058-d55a-4c3a-8f63-e933075847a4.svg)](https://wakatime.com/@2b894058-d55a-4c3a-8f63-e933075847a4)
 - 
